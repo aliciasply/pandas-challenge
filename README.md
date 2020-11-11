@@ -2,4 +2,6 @@
 Analyzing gamers' data - Heroes of Pymoli
 
 
-![Data_Frame](1.png)
+![Data_Frame](/Users/AliciaLy/Desktop/1.png)
+
+
