@@ -1,0 +1,28 @@
+
+                                Analysis Report
+
+The dataset that we analyze on has a total number of 576 players. There were 179 game items with the average price of $3.05 and there were 780 purchases were made, which contributed to the total revenue of $2,379.77. 
+
+                               Gender Demographics
+There were 484 male, 81 female and Non-disclosed gender players in the game. It clearly shows that there are male players than other gender players as male players made up 84.03% of the game.
+
+                               Purchasing Analysis (Gender)
+When I analyze the purchasing behavior, male players tend to make more purchases in terms of transaction count. The data shows that male made 652 purchases as compared to female. Female made 113 purchases, however, their average purchase price is a slightly higher than male. The average purchase price of female is at $3.20, whereas male is at $3.02 on average. In all, male players contributed to the higher total purchase value as they made the most purchases. 
+
+                                Age Demographics
+Looking at the age chart, it seems like most players are in the age range of 20-24, followed by 15-19, then 25-29. Players in the age range of 20-24 made up of almost 45% of the total age demographics. I could easily infer that this game is really popular among college students and high schoolers. 
+
+                            Purchasing Analysis (Age)
+When reading the data frame, players who are in the age range of 20-24 made the most number of purchases, with an average purchase price of $3.05, contributed to the total purchase value of $1,114.06. This followed by players who are in the age range of 15-19, then 25-29
+
+                                Top Spenders
+I ran the data to show who are the top spenders by their player ID. The top spender is Lisosia93, this person made a total of 5 purchases, with an average purchase price of $3.79, which contributed to the total spent of $18.96 in the game. I further displayed out the next big spenders, they were made at around 3 to 4 purchases for the game.
+
+                                Most Popular Items
+I pull up the data grouping them by Item ID and Item Name to show what the hot items are. I further sort the data by the purchase count to find out what are the items that people buy the most and I found that Final Critic, item #92 is the most popular item, with the price of $4.61 and the total purchase of $59.99.
+
+                                Most Profitable Items
+I did the same grouping, but sorting the data by the total purchase value to show the most profitable item for the company. Final Critic scores the top because it had the most purchases. When we look at the row 3 to row 5, we will see that the items are a in different order than the previous data frame (Most popular item). It is because we are looking at the total purchase value in here, some purchase count in this data frame might be the same as the last data frame, however, the item price are higher and the total purchase value are higher, therefore listed as the most profitable items. 
+
+
+
